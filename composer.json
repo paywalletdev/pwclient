@@ -10,6 +10,7 @@
             "email": "support@paywallet.pro"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"PayWallet\\": "src/"}
     },
