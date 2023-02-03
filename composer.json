@@ -1,0 +1,21 @@
+{
+    "name": "paywallet/pwclient",
+    "description": "PayWallet Api client",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "PayWallet",
+            "email": "support@paywallet.pro"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"PayWallet\\": "src/"}
+    },
+    "require": {
+        "php": ">=7.2.5",
+        "guzzlehttp/guzzle": ">=7.5.0"
+    }
+}
