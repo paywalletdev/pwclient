@@ -3,7 +3,7 @@
     "description": "PayWallet Api client",
     "type": "library",
     "license": "MIT",
-    "authors": [
+    "authors": [ 
         {
             "name": "PayWallet",
             "email": "support@paywallet.pro"
