@@ -15,7 +15,6 @@
         "psr-4": {"PayWallet\\": "src/"}
     },
     "require": {
-        "php": ">=7.2.5",
         "guzzlehttp/guzzle": ">=7.5.0"
     }
 }
