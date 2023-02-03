@@ -1,5 +1,5 @@
 {
-    "name": "paywallet/pwclient",
+    "name": "paywalletdev/pwclient",
     "description": "PayWallet Api client",
     "type": "library",
     "license": "MIT",
