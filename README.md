@@ -7,7 +7,7 @@ PayWallet API documentations is available at [https://paywallet.pro/api/docs/int
 The recommended way to install package is through [Composer](https://getcomposer.org/).
 
 ```bash
-composer require paywalletdev/pwclient
+composer require paywallet/pwclient
 ```
 
 ## Examples
